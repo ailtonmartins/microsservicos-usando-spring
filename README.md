@@ -24,14 +24,5 @@ O Gateway distribui as solicitações para o micro um serviço específico respo
 
 ![image-20210429031604514](img/image-20210429031604514.png)
 
----
 
-
-<img width=80px src="https://avatars.githubusercontent.com/u/1257486?v=4" />
-
-### Oswaldo Neto
-
-###### [Especialista / Instrutor](https://github.com/oswaldoneto/)
-
-###### [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=NL9EADWVZW)
 
